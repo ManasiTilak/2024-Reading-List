@@ -12,7 +12,7 @@ It's open source, so feel free to contribute.
 | ----- | ----- | ---- | ------ |
 | How to Make a Clickable SVG Map | Html, CSS | [Link](https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/) | To Read |
 | Using LANGCHAIN AIs SequentialChain  | Langchain, Python | [Link](https://www.youtube.com/watch?v=VVSiI-FFrV0) | To watch |
-| The Complete Dart & Flutter Developer Course  | Flutter, Dart | [Link](=https://www.youtube.com/watch?v=CzRQ9mnmh44&t=2677s) | To watch |
+| The Complete Dart & Flutter Developer Course  | Flutter, Dart | [Link](https://www.youtube.com/watch?v=CzRQ9mnmh44&t=2677s) | To watch |
 | Javascript : Complete  | Javascript | [Link](https://www.youtube.com/watch?v=ER9SspLe4Hg&t=129s) | To watch |
 | Flutter & Firebase Course: Full Stack Instagram Clone | Flutter, Firebase | [Link](https://www.youtube.com/watch?v=mEPm9w5QlJM&t=296s) | To watch |
 | Solidity, Blockchain Development, & Smart Contracts  | Solidity | [Link](https://www.youtube.com/watch?v=umepbfKp5rI&t=21s) | To watch |
