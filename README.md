@@ -1,8 +1,8 @@
 # 2024 Reading List
 
-This repository contains a list of articles and videos I plan to read/watch in 2024. It is an attempt to organize and manage a never ending list of bookmarks and tabs. 
+This repository contains a list of books, articles and videos I plan to read/watch in 2024. It is an attempt to organize and manage a never ending list of bookmarks and tabs. 
 
-It consists of both new and old videos and articles curated to the best of my ability. I hope you find some video that helps you along your coding journey as well.
+It consists of both new and old videos and articles curated to the best of my ability. Feel free to explore!
  
 It's open source, so feel free to contribute.
 
@@ -18,6 +18,12 @@ It's open source, so feel free to contribute.
 | Solidity, Blockchain Development, & Smart Contracts  | Solidity | [Link](https://www.youtube.com/watch?v=umepbfKp5rI&t=21s) | To watch |
 | Learn smart contract auditing | Smart Contract Audits, DeFi | [Link](https://www.youtube.com/watch?v=pUWmJ86X_do&t=432s) | To watch |
 | Transforming a Photo into a 3D model | Python, NumPy| [Link](https://www.youtube.com/watch?v=1NS8TLwVKFc) | To watch |
+
+## Books
+
+| Title | Fiction/Non-Fiction | Summary-Link | Status |
+| ----- | ----- | ---- | ------ |
+| Show Your Work by Austin Kleon | Non-Fiction | To write | Read |
 
 
 ## Contributing
