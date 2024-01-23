@@ -17,6 +17,8 @@ It's open source, so feel free to contribute.
 | Flutter & Firebase Course: Full Stack Instagram Clone | Flutter, Firebase | [Link](https://www.youtube.com/watch?v=mEPm9w5QlJM&t=296s) | To watch |
 | Solidity, Blockchain Development, & Smart Contracts  | Solidity | [Link](https://www.youtube.com/watch?v=umepbfKp5rI&t=21s) | To watch |
 | Learn smart contract auditing | Smart Contract Audits, DeFi | [Link](https://www.youtube.com/watch?v=pUWmJ86X_do&t=432s) | To watch |
+| Transforming a Photo into a 3D model | Python, NumPy| [Link](https://www.youtube.com/watch?v=1NS8TLwVKFc) | To watch |
+
 
 ## Contributing
 If you have suggestions for articles or videos that should be on this list, please open an issue or submit a pull request.
