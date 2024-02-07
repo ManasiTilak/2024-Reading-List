@@ -18,6 +18,8 @@ It's open source, so feel free to contribute.
 | Solidity, Blockchain Development, & Smart Contracts  | Solidity | [Link](https://www.youtube.com/watch?v=umepbfKp5rI&t=21s) | To watch |
 | Learn smart contract auditing | Smart Contract Audits, DeFi | [Link](https://www.youtube.com/watch?v=pUWmJ86X_do&t=432s) | To watch |
 | Transforming a Photo into a 3D model | Python, NumPy| [Link](https://www.youtube.com/watch?v=1NS8TLwVKFc) | To watch |
+| Build & Deploy AI SaaS with Reoccurring Revenue | Python, NumPy| [Link](https://www.youtube.com/watch?v=r895rFUbGtE) | To watch |
+
 
 ## Books
 
